@@ -2,6 +2,8 @@
 
 This project is a clone of the Udemy website, built using HTML, CSS3, and JavaScript. Udemy is a popular online learning platform that offers a wide range of courses on various topics.
 
+![image](https://github.com/hemanthsaich/UdemyClone/assets/91429511/666a00bf-389c-4128-aad8-6e5b67c0d8e6)
+
 ## Live Link
 
 You can view the live version of this project: https://udemy-clone-sigma.vercel.app/
